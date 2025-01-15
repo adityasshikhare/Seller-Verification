@@ -1,10 +1,23 @@
 # How to run project
 
-1] write on terminal "npx create-react-app"
-2] add files in src diractory : SellerVerification.js, SellerVerification.css 
-3] add server.js on backend 
-4] run command : node server.js
-5] run Command : npm start
+#1] write on terminal 
+
+npx create-react-app
+
+#2] add files in src diractory : 
+
+SellerVerification.js, SellerVerification.css 
+
+#3] add server.js on backend 
+
+#4] run command : 
+
+node server.js
+
+#5] run Command :
+
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
