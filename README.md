@@ -21,6 +21,7 @@ npm start
 if not run proporly then run
 
 set NODE_OPTIONS=--openssl-legacy-provider
+
 npm start
 
 # Getting Started with Create React App
